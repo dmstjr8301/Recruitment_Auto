@@ -1,0 +1,121 @@
+{% extends "base.html" %}
+
+{% block content %}
+<!-- 통계 카드 -->
+<div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
+    <div class="bg-white rounded-lg shadow p-4">
+        <div class="text-3xl font-bold text-blue-600">{{ stats.total }}</div>
+        <div class="text-gray-500 text-sm">전체 공고</div>
+    </div>
+    <div class="bg-white rounded-lg shadow p-4">
+        <div class="text-3xl font-bold text-green-600">{{ stats.new }}</div>
+        <div class="text-gray-500 text-sm">새 공고</div>
+    </div>
+    <div class="bg-white rounded-lg shadow p-4">
+        <div class="text-3xl font-bold text-orange-600">{{ stats.expiring_7days }}</div>
+        <div class="text-gray-500 text-sm">7일 내 마감</div>
+    </div>
+    <div class="bg-white rounded-lg shadow p-4">
+        <div class="text-3xl font-bold text-purple-600">{{ sources|length }}</div>
+        <div class="text-gray-500 text-sm">수집 사이트</div>
+    </div>
+</div>
+
+<!-- 필터 -->
+<div class="bg-white rounded-lg shadow p-4 mb-6">
+    <div class="flex flex-wrap gap-2">
+        <!-- 뷰 필터 -->
+        <a href="/?view=all"
+           class="px-4 py-2 rounded-full text-sm font-medium transition
+                  {% if current_view == 'all' %}bg-blue-600 text-white{% else %}bg-gray-100 text-gray-700 hover:bg-gray-200{% endif %}">
+            전체
+        </a>
+        <a href="/?view=new"
+           class="px-4 py-2 rounded-full text-sm font-medium transition
+                  {% if current_view == 'new' %}bg-green-600 text-white{% else %}bg-gray-100 text-gray-700 hover:bg-gray-200{% endif %}">
+            새 공고
+        </a>
+        <a href="/?view=expiring"
+           class="px-4 py-2 rounded-full text-sm font-medium transition
+                  {% if current_view == 'expiring' %}bg-orange-600 text-white{% else %}bg-gray-100 text-gray-700 hover:bg-gray-200{% endif %}">
+            마감 임박
+        </a>
+
+        <span class="border-l mx-2"></span>
+
+        <!-- 소스 필터 -->
+        {% for source in sources %}
+        <a href="/?source={{ source.value }}"
+           class="px-4 py-2 rounded-full text-sm font-medium transition
+                  {% if current_source == source.value %}bg-indigo-600 text-white{% else %}bg-gray-100 text-gray-700 hover:bg-gray-200{% endif %}">
+            {{ source.label }}
+            {% if stats.by_source[source.value] %}
+            <span class="ml-1 text-xs">({{ stats.by_source[source.value] }})</span>
+            {% endif %}
+        </a>
+        {% endfor %}
+    </div>
+</div>
+
+<!-- 채용 공고 목록 -->
+<div class="space-y-4">
+    {% if jobs %}
+        {% for job in jobs %}
+        <a href="/job/{{ job.id }}" class="block">
+            <div class="bg-white rounded-lg shadow p-4 border-l-4 source-{{ job.source }} card-hover transition duration-200">
+                <div class="flex items-start justify-between">
+                    <div class="flex-1">
+                        <div class="flex items-center gap-2 mb-1">
+                            {% if job.is_new %}
+                            <span class="new-badge bg-green-500 text-white text-xs px-2 py-0.5 rounded-full">NEW</span>
+                            {% endif %}
+                            {% if job.days_until_deadline is not none and job.days_until_deadline <= 7 %}
+                            <span class="bg-red-500 text-white text-xs px-2 py-0.5 rounded-full">D-{{ job.days_until_deadline }}</span>
+                            {% endif %}
+                            <span class="text-xs text-gray-500 uppercase">{{ job.source }}</span>
+                        </div>
+
+                        <h3 class="text-lg font-semibold text-gray-800 mb-1">{{ job.title }}</h3>
+
+                        <div class="flex items-center gap-3 text-sm text-gray-600">
+                            <span class="font-medium">{{ job.company_name }}</span>
+                            {% if job.location %}
+                            <span>{{ job.location }}</span>
+                            {% endif %}
+                            {% if job.experience_text %}
+                            <span class="text-blue-600">{{ job.experience_text }}</span>
+                            {% endif %}
+                        </div>
+                    </div>
+
+                    <div class="text-right text-sm">
+                        {% if job.deadline_text %}
+                        <div class="text-gray-500">마감: {{ job.deadline_text }}</div>
+                        {% endif %}
+                        <div class="text-gray-400 text-xs mt-1">
+                            {{ job.crawled_at.strftime('%m/%d %H:%M') }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+        {% endfor %}
+    {% else %}
+        <div class="bg-white rounded-lg shadow p-8 text-center text-gray-500">
+            <svg class="mx-auto h-12 w-12 text-gray-400 mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                      d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+            <p>조건에 맞는 채용 공고가 없습니다.</p>
+            <p class="text-sm mt-2">크롤러를 실행하여 데이터를 수집해주세요.</p>
+        </div>
+    {% endif %}
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+// 자동 새로고침 (5분마다)
+setTimeout(() => location.reload(), 5 * 60 * 1000);
+</script>
+{% endblock %}

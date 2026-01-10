@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}채용 정보 대시보드{% endblock %}</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+        .new-badge {
+            animation: pulse 2s infinite;
+        }
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.7; }
+        }
+        .card-hover:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1);
+        }
+        .source-saramin { border-left-color: #0066cc; }
+        .source-jobkorea { border-left-color: #ff6600; }
+        .source-wanted { border-left-color: #3366ff; }
+        .source-rocketpunch { border-left-color: #6366f1; }
+        .source-linkedin { border-left-color: #0077b5; }
+        .source-jobtalio { border-left-color: #22c55e; }
+    </style>
+</head>
+<body class="bg-gray-100 min-h-screen">
+    <nav class="bg-white shadow-sm border-b">
+        <div class="max-w-7xl mx-auto px-4 py-4">
+            <div class="flex items-center justify-between">
+                <a href="/" class="text-xl font-bold text-gray-800">
+                    채용 정보 대시보드
+                </a>
+                <div class="text-sm text-gray-500">
+                    데이터 분석 | 신입/경력무관/인턴
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <main class="max-w-7xl mx-auto px-4 py-6">
+        {% block content %}{% endblock %}
+    </main>
+
+    <footer class="bg-white border-t mt-8 py-4">
+        <div class="max-w-7xl mx-auto px-4 text-center text-gray-500 text-sm">
+            Recruitment Auto - 채용 정보 자동 수집 에이전트
+        </div>
+    </footer>
+
+    {% block scripts %}{% endblock %}
+</body>
+</html>

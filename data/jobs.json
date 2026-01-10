@@ -1,0 +1,17 @@
+{
+  "updated_at": "2025-01-10T00:00:00",
+  "stats": {
+    "total": 0,
+    "new": 0,
+    "expiring_7days": 0,
+    "by_source": {
+      "saramin": 0,
+      "jobkorea": 0,
+      "wanted": 0,
+      "rocketpunch": 0,
+      "linkedin": 0,
+      "jobtalio": 0
+    }
+  },
+  "jobs": []
+}

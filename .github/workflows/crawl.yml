@@ -1,0 +1,86 @@
+name: 채용 정보 수집
+
+on:
+  # 매일 한국시간 오전 9시, 오후 6시 실행 (UTC 0시, 9시)
+  schedule:
+    - cron: '0 0 * * *'   # 매일 09:00 KST
+    - cron: '0 9 * * *'   # 매일 18:00 KST
+
+  # 수동 실행 가능
+  workflow_dispatch:
+
+  # main 브랜치 푸시 시에도 실행 (테스트용)
+  push:
+    branches:
+      - main
+    paths:
+      - 'src/**'
+      - '.github/workflows/crawl.yml'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Python 설정
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 의존성 설치
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: 채용 정보 수집
+        run: python -m src.main crawl-to-json
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+
+      - name: 정적 사이트 생성
+        run: python -m src.main build-static
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+
+      - name: 변경사항 커밋
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/ docs/
+          git diff --staged --quiet || git commit -m "chore: 채용 정보 업데이트 $(date +'%Y-%m-%d %H:%M')"
+          git push
+
+  deploy:
+    needs: crawl
+    runs-on: ubuntu-latest
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+        with:
+          ref: main  # 최신 커밋 가져오기
+
+      - name: GitHub Pages 설정
+        uses: actions/configure-pages@v4
+
+      - name: 아티팩트 업로드
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './docs'
+
+      - name: GitHub Pages 배포
+        id: deployment
+        uses: actions/deploy-pages@v4
