@@ -48,7 +48,7 @@
                 <div class="text-gray-500 text-sm">7일 내 마감</div>
             </div>
             <div class="bg-white rounded-lg shadow p-4">
-                <div id="stat-sources" class="text-3xl font-bold text-purple-600">6</div>
+                <div id="stat-sources" class="text-3xl font-bold text-purple-600">1</div>
                 <div class="text-gray-500 text-sm">수집 사이트</div>
             </div>
         </div>
@@ -59,13 +59,6 @@
                 <button onclick="filterJobs('all')" class="filter-btn active px-4 py-2 rounded-full text-sm font-medium bg-blue-600 text-white" data-filter="all">전체</button>
                 <button onclick="filterJobs('new')" class="filter-btn px-4 py-2 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-gray-200" data-filter="new">새 공고</button>
                 <button onclick="filterJobs('expiring')" class="filter-btn px-4 py-2 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-gray-200" data-filter="expiring">마감 임박</button>
-                <span class="border-l mx-2"></span>
-                <button onclick="filterBySource('saramin')" class="source-btn px-4 py-2 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-gray-200">사람인</button>
-                <button onclick="filterBySource('jobkorea')" class="source-btn px-4 py-2 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-gray-200">잡코리아</button>
-                <button onclick="filterBySource('wanted')" class="source-btn px-4 py-2 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-gray-200">원티드</button>
-                <button onclick="filterBySource('rocketpunch')" class="source-btn px-4 py-2 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-gray-200">로켓펀치</button>
-                <button onclick="filterBySource('linkedin')" class="source-btn px-4 py-2 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-gray-200">LinkedIn</button>
-                <button onclick="filterBySource('jobtalio')" class="source-btn px-4 py-2 rounded-full text-sm font-medium bg-gray-100 text-gray-700 hover:bg-gray-200">공공기관</button>
             </div>
         </div>
 
@@ -88,7 +81,6 @@
     <script>
         let allJobs = [];
         let currentFilter = 'all';
-        let currentSource = null;
 
         async function loadJobs() {
             try {
@@ -126,15 +118,10 @@
 
         function filterJobs(filter) {
             currentFilter = filter;
-            currentSource = null;
 
             // 버튼 스타일 업데이트
             document.querySelectorAll('.filter-btn').forEach(btn => {
                 btn.classList.remove('bg-blue-600', 'text-white');
-                btn.classList.add('bg-gray-100', 'text-gray-700');
-            });
-            document.querySelectorAll('.source-btn').forEach(btn => {
-                btn.classList.remove('bg-indigo-600', 'text-white');
                 btn.classList.add('bg-gray-100', 'text-gray-700');
             });
             document.querySelector(`[data-filter="${filter}"]`).classList.remove('bg-gray-100', 'text-gray-700');
@@ -153,26 +140,6 @@
                 });
             }
 
-            renderJobs(filtered);
-        }
-
-        function filterBySource(source) {
-            currentSource = source;
-            currentFilter = null;
-
-            // 버튼 스타일 업데이트
-            document.querySelectorAll('.filter-btn').forEach(btn => {
-                btn.classList.remove('bg-blue-600', 'text-white');
-                btn.classList.add('bg-gray-100', 'text-gray-700');
-            });
-            document.querySelectorAll('.source-btn').forEach(btn => {
-                btn.classList.remove('bg-indigo-600', 'text-white');
-                btn.classList.add('bg-gray-100', 'text-gray-700');
-            });
-            event.target.classList.remove('bg-gray-100', 'text-gray-700');
-            event.target.classList.add('bg-indigo-600', 'text-white');
-
-            const filtered = allJobs.filter(job => job.source === source);
             renderJobs(filtered);
         }
 

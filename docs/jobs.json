@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-01-10T00:53:35.207979",
+  "updated_at": "2026-01-10T00:57:51.106834",
   "stats": {
-    "total": 65,
-    "new": 33,
+    "total": 66,
+    "new": 32,
     "expiring_7days": 19,
     "by_source": {
-      "saramin": 65,
+      "saramin": 66,
       "jobkorea": 0,
       "wanted": 0,
       "rocketpunch": 0,
@@ -76,8 +76,8 @@
       "tech_stack": [],
       "description": null,
       "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52732006&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=65f190c1-4504-44be-8e62-d50759a1a460",
-      "crawled_at": "2026-01-10T00:53:09.914388",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52732006&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=47410d2b-61ad-4ec4-a4b6-949836ab2b43",
+      "crawled_at": "2026-01-10T00:57:25.560541",
       "is_new": false
     },
     {
@@ -191,28 +191,6 @@
       "is_new": true
     },
     {
-      "id": "fd9ffc3cbe27",
-      "title": "Data Scientist Intern (6개월 인턴, 전환형)",
-      "company_name": "(주)에이비일팔공",
-      "company_logo": null,
-      "experience_level": "경력무관",
-      "experience_text": "경력무관",
-      "deadline": "2026-01-15T00:00:00",
-      "deadline_text": "~ 01/15(목)",
-      "internship_period": null,
-      "location": "서울서초구",
-      "salary": null,
-      "employment_type": null,
-      "requirements": [],
-      "preferred": [],
-      "tech_stack": [],
-      "description": null,
-      "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52687859&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EC%82%AC%EC%9D%B4%EC%96%B8%ED%8B%B0%EC%8A%A4%ED%8A%B8&searchType=search&paid_fl=n&search_uuid=b23c0903-7a2b-47b3-9a28-31ceef1f376a",
-      "crawled_at": "2026-01-10T00:48:05.179783",
-      "is_new": true
-    },
-    {
       "id": "5ebf0e966603",
       "title": "딜리버리데이터 분석가 모집(경력무관, 기간제)",
       "company_name": "(주)우아한청년들",
@@ -230,8 +208,8 @@
       "tech_stack": [],
       "description": null,
       "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52695032&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=65f190c1-4504-44be-8e62-d50759a1a460",
-      "crawled_at": "2026-01-10T00:53:09.887518",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52695032&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=47410d2b-61ad-4ec4-a4b6-949836ab2b43",
+      "crawled_at": "2026-01-10T00:57:25.534001",
       "is_new": false
     },
     {
@@ -252,8 +230,8 @@
       "tech_stack": [],
       "description": null,
       "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52687594&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=65f190c1-4504-44be-8e62-d50759a1a460",
-      "crawled_at": "2026-01-10T00:53:09.890203",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52687594&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=47410d2b-61ad-4ec4-a4b6-949836ab2b43",
+      "crawled_at": "2026-01-10T00:57:25.536659",
       "is_new": false
     },
     {
@@ -274,8 +252,30 @@
       "tech_stack": [],
       "description": null,
       "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52687605&location=ts&searchword=Data+Analyst&searchType=search&paid_fl=n&search_uuid=7337e735-5710-477a-9f63-967215774395",
-      "crawled_at": "2026-01-10T00:53:13.725497",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52687605&location=ts&searchword=Data+Analyst&searchType=search&paid_fl=n&search_uuid=48f6d23c-1bcb-4922-b225-22208e351020",
+      "crawled_at": "2026-01-10T00:57:29.338606",
+      "is_new": false
+    },
+    {
+      "id": "fd9ffc3cbe27",
+      "title": "Data Scientist Intern (6개월 인턴, 전환형)",
+      "company_name": "(주)에이비일팔공",
+      "company_logo": null,
+      "experience_level": "경력무관",
+      "experience_text": "경력무관",
+      "deadline": "2026-01-15T00:00:00",
+      "deadline_text": "~ 01/15(목)",
+      "internship_period": null,
+      "location": "서울서초구",
+      "salary": null,
+      "employment_type": null,
+      "requirements": [],
+      "preferred": [],
+      "tech_stack": [],
+      "description": null,
+      "source": "saramin",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52687859&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EC%82%AC%EC%9D%B4%EC%96%B8%ED%8B%B0%EC%8A%A4%ED%8A%B8&searchType=search&paid_fl=n&search_uuid=422effe7-107b-4f71-869a-a78a71e77490",
+      "crawled_at": "2026-01-10T00:57:33.178693",
       "is_new": false
     },
     {
@@ -318,8 +318,8 @@
       "tech_stack": [],
       "description": null,
       "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52594770&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=65f190c1-4504-44be-8e62-d50759a1a460",
-      "crawled_at": "2026-01-10T00:53:09.897769",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52594770&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=47410d2b-61ad-4ec4-a4b6-949836ab2b43",
+      "crawled_at": "2026-01-10T00:57:25.544138",
       "is_new": false
     },
     {
@@ -340,8 +340,8 @@
       "tech_stack": [],
       "description": null,
       "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52603263&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=65f190c1-4504-44be-8e62-d50759a1a460",
-      "crawled_at": "2026-01-10T00:53:09.925609",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52603263&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=47410d2b-61ad-4ec4-a4b6-949836ab2b43",
+      "crawled_at": "2026-01-10T00:57:25.571595",
       "is_new": false
     },
     {
@@ -362,8 +362,8 @@
       "tech_stack": [],
       "description": null,
       "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52770603&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=65f190c1-4504-44be-8e62-d50759a1a460",
-      "crawled_at": "2026-01-10T00:53:09.895284",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52770603&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=47410d2b-61ad-4ec4-a4b6-949836ab2b43",
+      "crawled_at": "2026-01-10T00:57:25.541682",
       "is_new": false
     },
     {
@@ -384,8 +384,8 @@
       "tech_stack": [],
       "description": null,
       "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52349408&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=65f190c1-4504-44be-8e62-d50759a1a460",
-      "crawled_at": "2026-01-10T00:53:09.905588",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52349408&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=47410d2b-61ad-4ec4-a4b6-949836ab2b43",
+      "crawled_at": "2026-01-10T00:57:25.551852",
       "is_new": false
     },
     {
@@ -406,8 +406,8 @@
       "tech_stack": [],
       "description": null,
       "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52777349&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=65f190c1-4504-44be-8e62-d50759a1a460",
-      "crawled_at": "2026-01-10T00:53:09.911980",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52777349&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=47410d2b-61ad-4ec4-a4b6-949836ab2b43",
+      "crawled_at": "2026-01-10T00:57:25.558203",
       "is_new": false
     },
     {
@@ -428,8 +428,8 @@
       "tech_stack": [],
       "description": null,
       "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52349396&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=65f190c1-4504-44be-8e62-d50759a1a460",
-      "crawled_at": "2026-01-10T00:53:09.935431",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52349396&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=47410d2b-61ad-4ec4-a4b6-949836ab2b43",
+      "crawled_at": "2026-01-10T00:57:25.581314",
       "is_new": false
     },
     {
@@ -450,8 +450,8 @@
       "tech_stack": [],
       "description": null,
       "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52361665&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=65f190c1-4504-44be-8e62-d50759a1a460",
-      "crawled_at": "2026-01-10T00:53:09.918271",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52361665&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=47410d2b-61ad-4ec4-a4b6-949836ab2b43",
+      "crawled_at": "2026-01-10T00:57:25.564353",
       "is_new": false
     },
     {
@@ -499,28 +499,6 @@
       "is_new": true
     },
     {
-      "id": "e2f0f6b86bc8",
-      "title": "[PTKOREA/인턴] 이커머스데이터 분석업무 보조",
-      "company_name": "펑타이그레이터차이나(유)",
-      "company_logo": null,
-      "experience_level": "경력무관",
-      "experience_text": "경력무관",
-      "deadline": "2026-01-23T00:00:00",
-      "deadline_text": "~ 01/23(금)",
-      "internship_period": null,
-      "location": "서울강남구",
-      "salary": null,
-      "employment_type": null,
-      "requirements": [],
-      "preferred": [],
-      "tech_stack": [],
-      "description": null,
-      "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52770053&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=65f190c1-4504-44be-8e62-d50759a1a460",
-      "crawled_at": "2026-01-10T00:53:09.888855",
-      "is_new": false
-    },
-    {
       "id": "de7e1c5dec7b",
       "title": "(주)엑슬리트로보 IT개발·데이터 엔지니어링",
       "company_name": "(주)엑슬리트엣지",
@@ -540,6 +518,28 @@
       "source": "saramin",
       "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52650050&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EC%82%AC%EC%9D%B4%EC%96%B8%ED%8B%B0%EC%8A%A4%ED%8A%B8&searchType=search&paid_fl=n&search_uuid=29a49e50-e51c-4261-b7bd-9d9a9020bedb",
       "crawled_at": "2026-01-10T00:53:17.601692",
+      "is_new": false
+    },
+    {
+      "id": "e2f0f6b86bc8",
+      "title": "[PTKOREA/인턴] 이커머스데이터 분석업무 보조",
+      "company_name": "펑타이그레이터차이나(유)",
+      "company_logo": null,
+      "experience_level": "경력무관",
+      "experience_text": "경력무관",
+      "deadline": "2026-01-23T00:00:00",
+      "deadline_text": "~ 01/23(금)",
+      "internship_period": null,
+      "location": "서울강남구",
+      "salary": null,
+      "employment_type": null,
+      "requirements": [],
+      "preferred": [],
+      "tech_stack": [],
+      "description": null,
+      "source": "saramin",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52770053&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=47410d2b-61ad-4ec4-a4b6-949836ab2b43",
+      "crawled_at": "2026-01-10T00:57:25.535338",
       "is_new": false
     },
     {
@@ -604,8 +604,8 @@
       "tech_stack": [],
       "description": null,
       "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52664107&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=65f190c1-4504-44be-8e62-d50759a1a460",
-      "crawled_at": "2026-01-10T00:53:09.910645",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52664107&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=47410d2b-61ad-4ec4-a4b6-949836ab2b43",
+      "crawled_at": "2026-01-10T00:57:25.556909",
       "is_new": false
     },
     {
@@ -626,8 +626,8 @@
       "tech_stack": [],
       "description": null,
       "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52674348&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=65f190c1-4504-44be-8e62-d50759a1a460",
-      "crawled_at": "2026-01-10T00:53:09.926895",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52674348&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=47410d2b-61ad-4ec4-a4b6-949836ab2b43",
+      "crawled_at": "2026-01-10T00:57:25.572880",
       "is_new": false
     },
     {
@@ -670,8 +670,8 @@
       "tech_stack": [],
       "description": null,
       "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52699890&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=65f190c1-4504-44be-8e62-d50759a1a460",
-      "crawled_at": "2026-01-10T00:53:09.896497",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52699890&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=47410d2b-61ad-4ec4-a4b6-949836ab2b43",
+      "crawled_at": "2026-01-10T00:57:25.542894",
       "is_new": false
     },
     {
@@ -780,8 +780,8 @@
       "tech_stack": [],
       "description": null,
       "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52759239&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EC%82%AC%EC%9D%B4%EC%96%B8%ED%8B%B0%EC%8A%A4%ED%8A%B8&searchType=search&paid_fl=n&search_uuid=29a49e50-e51c-4261-b7bd-9d9a9020bedb",
-      "crawled_at": "2026-01-10T00:53:17.569086",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52759239&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EC%82%AC%EC%9D%B4%EC%96%B8%ED%8B%B0%EC%8A%A4%ED%8A%B8&searchType=search&paid_fl=n&search_uuid=422effe7-107b-4f71-869a-a78a71e77490",
+      "crawled_at": "2026-01-10T00:57:33.147631",
       "is_new": false
     },
     {
@@ -802,8 +802,8 @@
       "tech_stack": [],
       "description": null,
       "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52759064&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EC%82%AC%EC%9D%B4%EC%96%B8%ED%8B%B0%EC%8A%A4%ED%8A%B8&searchType=search&paid_fl=n&search_uuid=29a49e50-e51c-4261-b7bd-9d9a9020bedb",
-      "crawled_at": "2026-01-10T00:53:17.571423",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52759064&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EC%82%AC%EC%9D%B4%EC%96%B8%ED%8B%B0%EC%8A%A4%ED%8A%B8&searchType=search&paid_fl=n&search_uuid=422effe7-107b-4f71-869a-a78a71e77490",
+      "crawled_at": "2026-01-10T00:57:33.151464",
       "is_new": false
     },
     {
@@ -912,8 +912,8 @@
       "tech_stack": [],
       "description": null,
       "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52759054&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=65f190c1-4504-44be-8e62-d50759a1a460",
-      "crawled_at": "2026-01-10T00:53:09.891456",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52759054&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=47410d2b-61ad-4ec4-a4b6-949836ab2b43",
+      "crawled_at": "2026-01-10T00:57:25.537917",
       "is_new": false
     },
     {
@@ -934,8 +934,8 @@
       "tech_stack": [],
       "description": null,
       "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52769671&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=65f190c1-4504-44be-8e62-d50759a1a460",
-      "crawled_at": "2026-01-10T00:53:09.915650",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52769671&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=47410d2b-61ad-4ec4-a4b6-949836ab2b43",
+      "crawled_at": "2026-01-10T00:57:25.561775",
       "is_new": false
     },
     {
@@ -956,9 +956,31 @@
       "tech_stack": [],
       "description": null,
       "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52767870&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=65f190c1-4504-44be-8e62-d50759a1a460",
-      "crawled_at": "2026-01-10T00:53:09.919467",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52767870&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=47410d2b-61ad-4ec4-a4b6-949836ab2b43",
+      "crawled_at": "2026-01-10T00:57:25.565519",
       "is_new": false
+    },
+    {
+      "id": "302c074ad854",
+      "title": "[늘품마루]물류 프로세스 기획 & 데이터 분석 담당 주임 채용",
+      "company_name": "(주)늘품마루",
+      "company_logo": null,
+      "experience_level": "신입",
+      "experience_text": "신입·경력",
+      "deadline": "2026-02-07T00:00:00",
+      "deadline_text": "~ 02/07(토)",
+      "internship_period": null,
+      "location": "서울강남구",
+      "salary": null,
+      "employment_type": null,
+      "requirements": [],
+      "preferred": [],
+      "tech_stack": [],
+      "description": null,
+      "source": "saramin",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52767963&location=ts&searchword=Data+Analyst&searchType=search&paid_fl=n&search_uuid=48f6d23c-1bcb-4922-b225-22208e351020",
+      "crawled_at": "2026-01-10T00:57:29.361193",
+      "is_new": true
     },
     {
       "id": "41029d75552c",
@@ -978,8 +1000,8 @@
       "tech_stack": [],
       "description": null,
       "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52776673&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=65f190c1-4504-44be-8e62-d50759a1a460",
-      "crawled_at": "2026-01-10T00:53:09.893977",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52776673&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=47410d2b-61ad-4ec4-a4b6-949836ab2b43",
+      "crawled_at": "2026-01-10T00:57:25.540418",
       "is_new": false
     },
     {
@@ -1066,30 +1088,8 @@
       "tech_stack": [],
       "description": null,
       "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52663804&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=65f190c1-4504-44be-8e62-d50759a1a460",
-      "crawled_at": "2026-01-10T00:53:09.892723",
-      "is_new": false
-    },
-    {
-      "id": "37be18a0a5c6",
-      "title": "데이터 사이언티스트채용 (전문연구요원/석사이상)",
-      "company_name": "(주)코어시큐리티",
-      "company_logo": null,
-      "experience_level": "경력무관",
-      "experience_text": "경력무관",
-      "deadline": "2026-02-28T00:00:00",
-      "deadline_text": "~ 02/28(토)",
-      "internship_period": null,
-      "location": "서울송파구",
-      "salary": null,
-      "employment_type": null,
-      "requirements": [],
-      "preferred": [],
-      "tech_stack": [],
-      "description": null,
-      "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52745566&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EC%82%AC%EC%9D%B4%EC%96%B8%ED%8B%B0%EC%8A%A4%ED%8A%B8&searchType=search&paid_fl=n&search_uuid=29a49e50-e51c-4261-b7bd-9d9a9020bedb",
-      "crawled_at": "2026-01-10T00:53:17.577663",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52663804&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=47410d2b-61ad-4ec4-a4b6-949836ab2b43",
+      "crawled_at": "2026-01-10T00:57:25.539168",
       "is_new": false
     },
     {
@@ -1110,8 +1110,30 @@
       "tech_stack": [],
       "description": null,
       "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52744395&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EC%82%AC%EC%9D%B4%EC%96%B8%ED%8B%B0%EC%8A%A4%ED%8A%B8&searchType=search&paid_fl=n&search_uuid=29a49e50-e51c-4261-b7bd-9d9a9020bedb",
-      "crawled_at": "2026-01-10T00:53:17.580121",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52744395&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EC%82%AC%EC%9D%B4%EC%96%B8%ED%8B%B0%EC%8A%A4%ED%8A%B8&searchType=search&paid_fl=n&search_uuid=422effe7-107b-4f71-869a-a78a71e77490",
+      "crawled_at": "2026-01-10T00:57:33.139142",
+      "is_new": false
+    },
+    {
+      "id": "37be18a0a5c6",
+      "title": "데이터 사이언티스트채용 (전문연구요원/석사이상)",
+      "company_name": "(주)코어시큐리티",
+      "company_logo": null,
+      "experience_level": "경력무관",
+      "experience_text": "경력무관",
+      "deadline": "2026-02-28T00:00:00",
+      "deadline_text": "~ 02/28(토)",
+      "internship_period": null,
+      "location": "서울송파구",
+      "salary": null,
+      "employment_type": null,
+      "requirements": [],
+      "preferred": [],
+      "tech_stack": [],
+      "description": null,
+      "source": "saramin",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52745566&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EC%82%AC%EC%9D%B4%EC%96%B8%ED%8B%B0%EC%8A%A4%ED%8A%B8&searchType=search&paid_fl=n&search_uuid=422effe7-107b-4f71-869a-a78a71e77490",
+      "crawled_at": "2026-01-10T00:57:33.154970",
       "is_new": false
     },
     {
@@ -1132,8 +1154,8 @@
       "tech_stack": [],
       "description": null,
       "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52746111&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=65f190c1-4504-44be-8e62-d50759a1a460",
-      "crawled_at": "2026-01-10T00:53:09.929367",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52746111&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=47410d2b-61ad-4ec4-a4b6-949836ab2b43",
+      "crawled_at": "2026-01-10T00:57:25.575307",
       "is_new": false
     },
     {
@@ -1291,28 +1313,6 @@
       "is_new": true
     },
     {
-      "id": "3754150f63b8",
-      "title": "[병역특례] AI 데이터 분석",
-      "company_name": "(주)휴라",
-      "company_logo": null,
-      "experience_level": "경력무관",
-      "experience_text": "경력무관",
-      "deadline": null,
-      "deadline_text": "내일마감",
-      "internship_period": null,
-      "location": "대전유성구",
-      "salary": null,
-      "employment_type": null,
-      "requirements": [],
-      "preferred": [],
-      "tech_stack": [],
-      "description": null,
-      "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52553484&location=ts&searchword=Data+Analyst&searchType=search&paid_fl=n&search_uuid=2cb42da5-fd29-401c-82dc-4dd7bdf8a3fb",
-      "crawled_at": "2026-01-10T00:48:01.419647",
-      "is_new": true
-    },
-    {
       "id": "bb4b5beeff7c",
       "title": "제품개발연구소데이터 분석가 채용 공고",
       "company_name": "주식회사 비카누스",
@@ -1330,8 +1330,8 @@
       "tech_stack": [],
       "description": null,
       "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52553971&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=65f190c1-4504-44be-8e62-d50759a1a460",
-      "crawled_at": "2026-01-10T00:53:09.908165",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52553971&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=47410d2b-61ad-4ec4-a4b6-949836ab2b43",
+      "crawled_at": "2026-01-10T00:57:25.554420",
       "is_new": false
     },
     {
@@ -1352,8 +1352,8 @@
       "tech_stack": [],
       "description": null,
       "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52636595&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=65f190c1-4504-44be-8e62-d50759a1a460",
-      "crawled_at": "2026-01-10T00:53:09.909374",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52636595&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=47410d2b-61ad-4ec4-a4b6-949836ab2b43",
+      "crawled_at": "2026-01-10T00:57:25.555625",
       "is_new": false
     },
     {
@@ -1374,8 +1374,8 @@
       "tech_stack": [],
       "description": null,
       "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52380921&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=65f190c1-4504-44be-8e62-d50759a1a460",
-      "crawled_at": "2026-01-10T00:53:09.913252",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52380921&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=47410d2b-61ad-4ec4-a4b6-949836ab2b43",
+      "crawled_at": "2026-01-10T00:57:25.559433",
       "is_new": false
     },
     {
@@ -1396,8 +1396,8 @@
       "tech_stack": [],
       "description": null,
       "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52712802&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=65f190c1-4504-44be-8e62-d50759a1a460",
-      "crawled_at": "2026-01-10T00:53:09.920608",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52712802&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=47410d2b-61ad-4ec4-a4b6-949836ab2b43",
+      "crawled_at": "2026-01-10T00:57:25.566627",
       "is_new": false
     },
     {
@@ -1418,8 +1418,8 @@
       "tech_stack": [],
       "description": null,
       "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52493693&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=65f190c1-4504-44be-8e62-d50759a1a460",
-      "crawled_at": "2026-01-10T00:53:09.932967",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52493693&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=47410d2b-61ad-4ec4-a4b6-949836ab2b43",
+      "crawled_at": "2026-01-10T00:57:25.578895",
       "is_new": false
     },
     {
@@ -1440,8 +1440,30 @@
       "tech_stack": [],
       "description": null,
       "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52469418&location=ts&searchword=Data+Analyst&searchType=search&paid_fl=n&search_uuid=7337e735-5710-477a-9f63-967215774395",
-      "crawled_at": "2026-01-10T00:53:13.719294",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52469418&location=ts&searchword=Data+Analyst&searchType=search&paid_fl=n&search_uuid=48f6d23c-1bcb-4922-b225-22208e351020",
+      "crawled_at": "2026-01-10T00:57:29.326444",
+      "is_new": false
+    },
+    {
+      "id": "3754150f63b8",
+      "title": "[병역특례] AI 데이터 분석",
+      "company_name": "(주)휴라",
+      "company_logo": null,
+      "experience_level": "경력무관",
+      "experience_text": "경력무관",
+      "deadline": null,
+      "deadline_text": "내일마감",
+      "internship_period": null,
+      "location": "대전유성구",
+      "salary": null,
+      "employment_type": null,
+      "requirements": [],
+      "preferred": [],
+      "tech_stack": [],
+      "description": null,
+      "source": "saramin",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52553484&location=ts&searchword=Data+Analyst&searchType=search&paid_fl=n&search_uuid=48f6d23c-1bcb-4922-b225-22208e351020",
+      "crawled_at": "2026-01-10T00:57:29.364826",
       "is_new": false
     }
   ]
