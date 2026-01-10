@@ -10,11 +10,7 @@ from pydantic import BaseModel, Field
 class JobSource(str, Enum):
     """채용 사이트 소스"""
     SARAMIN = "saramin"
-    JOBKOREA = "jobkorea"
-    WANTED = "wanted"
-    ROCKETPUNCH = "rocketpunch"
-    LINKEDIN = "linkedin"
-    JOBTALIO = "jobtalio"  # 잡알리오 (공공기관)
+    INTHISWORK = "inthiswork"  # 인디스워크 (데이터 분석 전문)
 
 
 class ExperienceLevel(str, Enum):

@@ -230,7 +230,7 @@ class StaticSiteBuilder:
                 <div class="text-gray-500 text-sm">7일 내 마감</div>
             </div>
             <div class="bg-white rounded-lg shadow p-4">
-                <div id="stat-sources" class="text-3xl font-bold text-purple-600">1</div>
+                <div id="stat-sources" class="text-3xl font-bold text-purple-600">2</div>
                 <div class="text-gray-500 text-sm">수집 사이트</div>
             </div>
         </div>
