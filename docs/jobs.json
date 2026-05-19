@@ -1,38 +1,15 @@
 {
-  "updated_at": "2026-05-18T03:57:49.911159",
+  "updated_at": "2026-05-19T03:53:21.358529",
   "stats": {
-    "total": 330,
-    "new": 35,
-    "expiring_7days": 10,
+    "total": 329,
+    "new": 34,
+    "expiring_7days": 11,
     "by_source": {
-      "saramin": 188,
+      "saramin": 187,
       "inthiswork": 142
     }
   },
   "jobs": [
-    {
-      "id": "84f01e5d7cd5",
-      "title": "[캐시워크] 데이터분석가 - 석사/박사",
-      "company_name": "넛지헬스케어(주)",
-      "company_logo": null,
-      "experience_level": "경력무관",
-      "experience_text": "경력무관",
-      "deadline": "2026-05-19T00:00:00",
-      "deadline_text": "~ 05/19(화)",
-      "internship_period": null,
-      "location": "서울강남구",
-      "salary": null,
-      "employment_type": null,
-      "requirements": [],
-      "preferred": [],
-      "tech_stack": [],
-      "description": null,
-      "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53397807&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=aff3a542-eab2-4b3b-b2ad-001f7c3ed166",
-      "crawled_at": "2026-05-14T03:40:05.616313",
-      "is_new": false,
-      "first_seen_at": "2026-04-06T02:48:42.343722"
-    },
     {
       "id": "96cc43a48bdc",
       "title": "6월 전분야 체험형 인턴 - 2차(제페토데이터 분석)",
@@ -442,8 +419,8 @@
       "tech_stack": [],
       "description": null,
       "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53623132&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EC%82%AC%EC%9D%B4%EC%96%B8%ED%8B%B0%EC%8A%A4%ED%8A%B8&searchType=search&paid_fl=n&search_uuid=3c9371ea-ce51-40f7-917d-7c506e81529d",
-      "crawled_at": "2026-05-18T03:57:24.961076",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53623132&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EC%82%AC%EC%9D%B4%EC%96%B8%ED%8B%B0%EC%8A%A4%ED%8A%B8&searchType=search&paid_fl=n&search_uuid=3cdb07e6-10a7-4601-992d-eda07fee3093",
+      "crawled_at": "2026-05-19T03:52:49.825527",
       "is_new": false,
       "first_seen_at": "2026-04-15T02:48:01.104277"
     },
@@ -488,8 +465,8 @@
       "tech_stack": [],
       "description": null,
       "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53514536&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EC%82%AC%EC%9D%B4%EC%96%B8%ED%8B%B0%EC%8A%A4%ED%8A%B8&searchType=search&paid_fl=n&search_uuid=3c9371ea-ce51-40f7-917d-7c506e81529d",
-      "crawled_at": "2026-05-18T03:57:24.983931",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53514536&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EC%82%AC%EC%9D%B4%EC%96%B8%ED%8B%B0%EC%8A%A4%ED%8A%B8&searchType=search&paid_fl=n&search_uuid=3cdb07e6-10a7-4601-992d-eda07fee3093",
+      "crawled_at": "2026-05-19T03:52:49.824249",
       "is_new": false,
       "first_seen_at": "2026-04-03T02:39:08.836267"
     },
@@ -511,8 +488,8 @@
       "tech_stack": [],
       "description": null,
       "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53791098&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EC%82%AC%EC%9D%B4%EC%96%B8%ED%8B%B0%EC%8A%A4%ED%8A%B8&searchType=search&paid_fl=n&search_uuid=3c9371ea-ce51-40f7-917d-7c506e81529d",
-      "crawled_at": "2026-05-18T03:57:24.954356",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53791098&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EC%82%AC%EC%9D%B4%EC%96%B8%ED%8B%B0%EC%8A%A4%ED%8A%B8&searchType=search&paid_fl=n&search_uuid=3cdb07e6-10a7-4601-992d-eda07fee3093",
+      "crawled_at": "2026-05-19T03:52:49.828354",
       "is_new": false,
       "first_seen_at": "2026-05-05T02:58:09.917453"
     },
@@ -7348,6 +7325,29 @@
       "first_seen_at": "2026-05-08T03:25:51.281850"
     },
     {
+      "id": "e38a722d4a52",
+      "title": "Data Analyst (Recommendation)",
+      "company_name": "토스",
+      "company_logo": null,
+      "experience_level": "경력무관",
+      "experience_text": "",
+      "deadline": null,
+      "deadline_text": "",
+      "internship_period": null,
+      "location": "",
+      "salary": null,
+      "employment_type": null,
+      "requirements": [],
+      "preferred": [],
+      "tech_stack": [],
+      "description": null,
+      "source": "inthiswork",
+      "source_url": "https://inthiswork.com/archives/338743",
+      "crawled_at": "2026-05-18T03:57:39.672395",
+      "is_new": false,
+      "first_seen_at": "2026-05-13T03:41:40.620139"
+    },
+    {
       "id": "5a061770ff83",
       "title": "[빅밸류]데이터 사이언티스트채용(신입/전문연구요원)",
       "company_name": "주식회사 빅밸류",
@@ -7365,8 +7365,8 @@
       "tech_stack": [],
       "description": null,
       "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53817987&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EC%82%AC%EC%9D%B4%EC%96%B8%ED%8B%B0%EC%8A%A4%ED%8A%B8&searchType=search&paid_fl=n&search_uuid=3c9371ea-ce51-40f7-917d-7c506e81529d",
-      "crawled_at": "2026-05-18T03:57:24.962182",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53817987&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EC%82%AC%EC%9D%B4%EC%96%B8%ED%8B%B0%EC%8A%A4%ED%8A%B8&searchType=search&paid_fl=n&search_uuid=3cdb07e6-10a7-4601-992d-eda07fee3093",
+      "crawled_at": "2026-05-19T03:52:49.826988",
       "is_new": false,
       "first_seen_at": "2026-05-13T03:41:40.620139"
     },
@@ -7388,8 +7388,8 @@
       "tech_stack": [],
       "description": null,
       "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53687095&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EC%82%AC%EC%9D%B4%EC%96%B8%ED%8B%B0%EC%8A%A4%ED%8A%B8&searchType=search&paid_fl=n&search_uuid=3c9371ea-ce51-40f7-917d-7c506e81529d",
-      "crawled_at": "2026-05-18T03:57:24.976964",
+      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53687095&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EC%82%AC%EC%9D%B4%EC%96%B8%ED%8B%B0%EC%8A%A4%ED%8A%B8&searchType=search&paid_fl=n&search_uuid=3cdb07e6-10a7-4601-992d-eda07fee3093",
+      "crawled_at": "2026-05-19T03:52:49.855573",
       "is_new": false,
       "first_seen_at": "2026-04-22T02:50:44.561672"
     },
@@ -7412,8 +7412,8 @@
       "description": "서비스를 소개해요지그재그 (ZIGZAG)지그재그는 나만의 스타일을 발견하는 즐거움을 전하는 스타일 커머스 플랫폼이에요. 2015년 출시 이후 모바일 쇼핑의 새로운 기준을 제시하며 가파르게 성장해 온 결과, 현재 누적 앱 다운로드 수 5,500만 돌파, 연간 거래액 2조 원 달성이라는 독보적인 기록을 세우고 있어요. 동대문 소호 패션부터 브랜드 패션, 뷰티, 라이프까지 국내 최다 수준의 ‘셀렉션’을 제공하고 AI 기반 개인화 추천과 이미지 검색, 빠른 배송 서비스 ‘직진배송’ 등 차별화된 쇼핑 경험을 선사하며 1030 유저들의 사랑을 받는 국내 대표 스타일 커머스 플랫폼으로 자리 매김했어요.🔎 최근 소식 살펴보기[카카오스타일] 10대부터 70대까지…, 여성 전 연령대 아우르며 성장↑[카카오스타일] ‘역대 최대’ 매출 기록한 카카오스타일…2년 연속 흑자달성[지그재그] 2년 연속 흑자…’배송·브랜드·3040′ 삼박자 맞았다우리 팀을 소개해요카카오스타일 데이터 사이언스팀은 유저에게 더 나은",
       "source": "inthiswork",
       "source_url": "https://inthiswork.com/archives/341088",
-      "crawled_at": "2026-05-18T03:57:39.671220",
-      "is_new": true,
+      "crawled_at": "2026-05-19T03:53:04.600492",
+      "is_new": false,
       "first_seen_at": "2026-05-17T03:43:39.967599"
     },
     {
@@ -7435,7 +7435,7 @@
       "description": "IntroductionA career in IBM Consulting is built on long-term client relationships and close collaboration worldwide. You’ll work with leading companies across industries, helping them shape their hybrid cloud and AI journeys. With support from our strategic partners, robust IBM technology, and Red Hat, you’ll have the tools to drive meaningful change and accelerate client impact. At IBM Consulting, curiosity fuels success. You’ll be encouraged to challenge the norm, explore new ideas, and create",
       "source": "inthiswork",
       "source_url": "https://inthiswork.com/archives/340313",
-      "crawled_at": "2026-05-18T03:57:39.671433",
+      "crawled_at": "2026-05-19T03:53:04.600722",
       "is_new": false,
       "first_seen_at": "2026-05-15T03:44:52.201873"
     },
@@ -7458,7 +7458,7 @@
       "description": "함께할 팀을 ​소개해요분석 ​팀은 ​강남언니가 데이터를 ​바탕으로 더 나은 의사결정을 ​할 ​수 있도록 ​구조화하고 연결하는 팀이에요.우리가 ​추구하는 분석은 ​단순히 ​숫자를 보는 ​것을 ​넘어, ​고객의 여정을 이해하고 ​문제를 ​해결하는 데 집중해요.제품, ​마케팅, ​영업 ​등 다양한 팀과 ​협업하며 함께 ​더 ​나은 방향을 ​만들어가요.앞으로 이런 ​일들을 ​하게 될 거예요데이터에 ​기반한 서비스·비즈니스 ​현황 분석 및 인사이트 도출주요 지표 모니터링을 통한 이상 징후·개선 포인트 식별제품·마케팅 팀과의 협업을 통한 사용자 행동 데이터 분석데이터 기반의 가설 수립 및 결과 검증이런 분을 모시고 싶어요데이터 분석 및 서비스 데이터에 관심이 있는 분SQL, Python, 통계 등 데이터 관련 내용을 학습했거나 활용해본 경험이 있는 분단순히 결과를 보는 것보다 “왜 이런 결과가 나왔을까?”를 고민하시는 분복잡한 문제를 구조화하고, 근거를 바탕으로 커뮤니케이션하는 것을 즐기시는 ",
       "source": "inthiswork",
       "source_url": "https://inthiswork.com/archives/340126",
-      "crawled_at": "2026-05-18T03:57:39.671469",
+      "crawled_at": "2026-05-19T03:53:04.600768",
       "is_new": false,
       "first_seen_at": "2026-05-15T03:44:52.201873"
     },
@@ -7481,7 +7481,7 @@
       "description": "조직 소개﻿웹툰 전사의 모든 데이터가 시작되는 첫 관문을 책임지고 있습니다. 글로벌 웹툰/웹툰/시리즈/라인망가 등의 서비스와 다양한 신규 사업의 의사결정이 우리 팀이 안정적으로 적재한 데이터 위에서 이루어집니다.우리 팀은 다음과 같은 일에 집중합니다.– 셀프 서비스 적재 플랫폼 을 만들어 데이터가 더 빠르고 쉽게 적재되도록 합니다.– 차세대 데이터 레이크 환경으로의 전환을 주도합니다.– 실시간 이벤트 수집 파이프라인으로 글로벌 트래픽을 처리합니다.매년 다수의 글로벌 서비스 오픈에 참여하면서, 동시에 플랫폼 자체를 만들어갑니다.담당 업무﻿데이터 적재 파이프라인 설계·운영– 글로벌 서비스의 운영 DB 및 이벤트 데이터를 데이터 레이크/웨어하우스로 적재하는 파이프라인 설계 및 운영– 배치 파이프라인 + 실시간 스트리밍 파이프라인 구축신규 서비스 오픈 대응– 신규 출시 서비스의 데이터 적재 셋업 (스키마 설계, 적재 SLA 정의, 모니터링 체계 구축)– 서비스팀과 협업하여 안정적인 데이터 ",
       "source": "inthiswork",
       "source_url": "https://inthiswork.com/archives/339485",
-      "crawled_at": "2026-05-18T03:57:39.672236",
+      "crawled_at": "2026-05-19T03:53:04.600885",
       "is_new": false,
       "first_seen_at": "2026-05-13T03:41:40.620139"
     },
@@ -7504,7 +7504,7 @@
       "description": "IntroductionA career in IBM Consulting is built on long-term client relationships and close collaboration worldwide. You’ll work with leading companies across industries, helping them shape their hybrid cloud and AI journeys. With support from our strategic partners, robust IBM technology, and Red Hat, you’ll have the tools to drive meaningful change and accelerate client impact. At IBM Consulting, curiosity fuels success. You’ll be encouraged to challenge the norm, explore new ideas, and create",
       "source": "inthiswork",
       "source_url": "https://inthiswork.com/archives/339399",
-      "crawled_at": "2026-05-18T03:57:39.672269",
+      "crawled_at": "2026-05-19T03:53:04.600921",
       "is_new": false,
       "first_seen_at": "2026-05-13T03:41:40.620139"
     },
@@ -7527,7 +7527,7 @@
       "description": null,
       "source": "inthiswork",
       "source_url": "https://inthiswork.com/archives/339351",
-      "crawled_at": "2026-05-18T03:57:39.672313",
+      "crawled_at": "2026-05-19T03:53:04.600967",
       "is_new": false,
       "first_seen_at": "2026-05-13T03:41:40.620139"
     },
@@ -7550,7 +7550,7 @@
       "description": null,
       "source": "inthiswork",
       "source_url": "https://inthiswork.com/archives/339154",
-      "crawled_at": "2026-05-18T03:57:39.672325",
+      "crawled_at": "2026-05-19T03:53:04.600978",
       "is_new": false,
       "first_seen_at": "2026-05-13T03:41:40.620139"
     },
@@ -7573,30 +7573,7 @@
       "description": null,
       "source": "inthiswork",
       "source_url": "https://inthiswork.com/archives/339127",
-      "crawled_at": "2026-05-18T03:57:39.672340",
-      "is_new": false,
-      "first_seen_at": "2026-05-13T03:41:40.620139"
-    },
-    {
-      "id": "e38a722d4a52",
-      "title": "Data Analyst (Recommendation)",
-      "company_name": "토스",
-      "company_logo": null,
-      "experience_level": "경력무관",
-      "experience_text": "",
-      "deadline": null,
-      "deadline_text": "",
-      "internship_period": null,
-      "location": "",
-      "salary": null,
-      "employment_type": null,
-      "requirements": [],
-      "preferred": [],
-      "tech_stack": [],
-      "description": null,
-      "source": "inthiswork",
-      "source_url": "https://inthiswork.com/archives/338743",
-      "crawled_at": "2026-05-18T03:57:39.672395",
+      "crawled_at": "2026-05-19T03:53:04.600994",
       "is_new": false,
       "first_seen_at": "2026-05-13T03:41:40.620139"
     }
