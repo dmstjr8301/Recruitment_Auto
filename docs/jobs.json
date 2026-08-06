@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-05T02:42:56.371053",
+  "updated_at": "2026-08-06T02:46:48.694992",
   "stats": {
-    "total": 499,
-    "new": 45,
-    "expiring_7days": 8,
+    "total": 500,
+    "new": 46,
+    "expiring_7days": 14,
     "by_source": {
       "saramin": 275,
-      "inthiswork": 224
+      "inthiswork": 225
     }
   },
   "jobs": [
@@ -11373,29 +11373,6 @@
       "first_seen_at": "2026-06-18T04:15:27.772881"
     },
     {
-      "id": "702fb968ef88",
-      "title": "이미지·비디오 생성 데이터 엔지니어링 (체험형 인턴)",
-      "company_name": "NAVER Cloud",
-      "company_logo": null,
-      "experience_level": "인턴",
-      "experience_text": "인턴",
-      "deadline": null,
-      "deadline_text": "",
-      "internship_period": null,
-      "location": "",
-      "salary": null,
-      "employment_type": null,
-      "requirements": [],
-      "preferred": [],
-      "tech_stack": [],
-      "description": "﻿﻿부서소개﻿저희 부서는 비디오·이미지 이해, 객체 및 얼굴 인식, 생성 AI 분야의 최신 기술을 연구하고, 이를 대규모 실무 서비스로 구현하는 AI 연구개발 조직입니다. 고도화된 얼굴 인식 기술 기반의 ‘FaceSign’과 영상 분석·고도화 솔루션인 ‘Media Intelligence’ 등의 핵심 기술을 개발하여 네이버의 다양한 서비스에 적용하고 있습니다. 더 나아가 VideoLLM, 이미지·비디오 생성, 3D/4D 공간 및 인간 인식 등 차세대 선행 기술 연구를 지속하며, 최신 연구 성과를 빠르게 실무 서비스 가치로 연결하는 기술 선순환을 지향합니다.담당업무﻿• 비디오 생성 데이터 전처리 파이프라인 구축 및 운영﻿• 비디오 생성 AI 평가 파이프라인(Evaluation Suite) 구현 및 관리﻿• 데이터 큐레이션 및 연구 지원자격요건﻿• 국내/외 정규대학(학사) 재학생 또는 기졸업자• 인턴십 기간(약 3개월) 동안 Full-Time 근무가 가능하신 분﻿• Python 기반의 데",
-      "source": "inthiswork",
-      "source_url": "https://inthiswork.com/archives/381668",
-      "crawled_at": "2026-08-05T02:42:46.101404",
-      "is_new": true,
-      "first_seen_at": "2026-08-05T02:42:56.370329"
-    },
-    {
       "id": "b108c97118f3",
       "title": "퇴직연금사업부 [데이터분석] 부문 인재 모집",
       "company_name": "하나은행",
@@ -11419,6 +11396,52 @@
       "first_seen_at": "2026-08-01T03:13:49.461647"
     },
     {
+      "id": "371c23f4aaf3",
+      "title": "데이터 엔지니어 – Data Product",
+      "company_name": "카카오뱅크",
+      "company_logo": null,
+      "experience_level": "경력무관",
+      "experience_text": "",
+      "deadline": null,
+      "deadline_text": "",
+      "internship_period": null,
+      "location": "",
+      "salary": null,
+      "employment_type": null,
+      "requirements": [],
+      "preferred": [],
+      "tech_stack": [],
+      "description": "Recruiter Says,카카오뱅크 AI데이터프로덕트개발팀은 최신 데이터 엔지니어링 기술을 기반으로 데이터가 빠르고, 정확하고, 가치 있게 흐르도록 만드는 역할을 담당합니다. Kafka, Flink, NoSQL, Airflow 등의 데이터 기술 스택을 활용하여 실시간 데이터 파이프라인과 대규모 배치 처리 시스템을 구축하고 경영, 서비스, 분석, 마케팅 등 다양한 업무 영역에 필요한 데이터를 제공합니다. 저희와 함께 최신 데이터 기술로 대한민국 금융의 미래를 함께 만들어갈 데이터 엔지니어링 전문가의 지원을 기다립니다.이런 분을 찾습니다· 최신 데이터 기술과 플랫폼에 대한 학습과 적용을 즐기는 분 · 데이터 흐름을 구조적으로 이해하고 효율적인 파이프라인을 설계할 수 있는 분 · 복잡한 문제를 단순하고 명확하게 해결할 수 있는 엔지니어 · 협업을 통해 더 큰 가치를 만들어가는 팀 플레이어| Kakaobank Tech카카오뱅크 기술 블로그에서 더 많은 이야기를 확인해 보세요!(Click)",
+      "source": "inthiswork",
+      "source_url": "https://inthiswork.com/archives/381964",
+      "crawled_at": "2026-08-06T02:46:38.367541",
+      "is_new": true,
+      "first_seen_at": "2026-08-06T02:46:48.694509"
+    },
+    {
+      "id": "702fb968ef88",
+      "title": "이미지·비디오 생성 데이터 엔지니어링 (체험형 인턴)",
+      "company_name": "NAVER Cloud",
+      "company_logo": null,
+      "experience_level": "인턴",
+      "experience_text": "인턴",
+      "deadline": null,
+      "deadline_text": "",
+      "internship_period": null,
+      "location": "",
+      "salary": null,
+      "employment_type": null,
+      "requirements": [],
+      "preferred": [],
+      "tech_stack": [],
+      "description": "﻿﻿부서소개﻿저희 부서는 비디오·이미지 이해, 객체 및 얼굴 인식, 생성 AI 분야의 최신 기술을 연구하고, 이를 대규모 실무 서비스로 구현하는 AI 연구개발 조직입니다. 고도화된 얼굴 인식 기술 기반의 ‘FaceSign’과 영상 분석·고도화 솔루션인 ‘Media Intelligence’ 등의 핵심 기술을 개발하여 네이버의 다양한 서비스에 적용하고 있습니다. 더 나아가 VideoLLM, 이미지·비디오 생성, 3D/4D 공간 및 인간 인식 등 차세대 선행 기술 연구를 지속하며, 최신 연구 성과를 빠르게 실무 서비스 가치로 연결하는 기술 선순환을 지향합니다.담당업무﻿• 비디오 생성 데이터 전처리 파이프라인 구축 및 운영﻿• 비디오 생성 AI 평가 파이프라인(Evaluation Suite) 구현 및 관리﻿• 데이터 큐레이션 및 연구 지원자격요건﻿• 국내/외 정규대학(학사) 재학생 또는 기졸업자• 인턴십 기간(약 3개월) 동안 Full-Time 근무가 가능하신 분﻿• Python 기반의 데",
+      "source": "inthiswork",
+      "source_url": "https://inthiswork.com/archives/381668",
+      "crawled_at": "2026-08-06T02:46:38.367587",
+      "is_new": true,
+      "first_seen_at": "2026-08-05T02:42:56.370329"
+    },
+    {
       "id": "db07058c9285",
       "title": "AI & 데이터 엔지니어 인턴 채용",
       "company_name": "삼일회계법인",
@@ -11437,7 +11460,7 @@
       "description": "근무형태인턴모집인원0명근무기간3개월, 평가에 따라 최대 6개월까지 연장담당업무세무·회계 등 전문 지식 서비스를 위한 LLM 기반 AI Agent 기능 설계 및 개발, 사용자 요청을 분석해 검색·외부 도구·전문 기능을 연결하는 작업 흐름 설계검색 및 지식베이스를 연동하여 AI 답변의 정확성·근거성·출처 품질 개선PDF, DOCX, XLSX, PPTX, 이미지 등 다양한 문서 입력을 처리하는 멀티모달 기능 고도화프롬프트, 도구 호출, 역할 분리, 구조화된 출력 및 대화 맥락 관리 개선테스트 데이터·사용자 피드백 기반 답변 품질 평가 및 회귀 테스트 체계 구축지식베이스 수집·정제·구조화: Dart(재무/공시)·FRED(거시경제) 등 데이터 소스 분석 및 수집 파이프라인 구축최신 AI Agent 및 Harness Engineering 동향 조사·기술 검증·고도화자격요건Python 및 SQL을 활용한 기본적인 데이터 처리, API 연동 및 스크립트 작성이 가능하신 분LLM의 프롬프트, 토큰·",
       "source": "inthiswork",
       "source_url": "https://inthiswork.com/archives/379150",
-      "crawled_at": "2026-08-05T02:42:46.101851",
+      "crawled_at": "2026-08-06T02:46:38.367885",
       "is_new": false,
       "first_seen_at": "2026-07-31T03:17:07.723413"
     },
@@ -11460,7 +11483,7 @@
       "description": "엑셈의 AI응용연구팀은 방대한 데이터의 흐름 속에서 시스템의 이상 징후를 가장 먼저 포착하고, 그 이면에 숨겨진 인과관계를 날카롭게 추적합니다.단순히 수치를 계산하는 것에 그치지 않고, 복잡하게 얽힌 데이터 속에서 ‘이상 탐지’와 ‘근본 원인 분석’이라는 해답을 찾아내어 고객의 서비스를 안전하게 지탱하는 강력한 무기를 만듭니다.우리는 ‘기술을 위한 기술’에 매몰되기보다, 기술이 만드는 실질적인 가치에 집중합니다.특정 알고리즘을 도입할 때에도 데이터에 기반한 명확한 논리로 동료와 소통하며, 우리가 설계한 모델이 왜 최선의 해결책인지 스스로 증명해 나가는 과정을 즐깁니다.AI응용연구팀에서는 데이터 속에 숨겨진 논리적인 스토리를 발견하고, 자신의 결과물이 현실의 문제를 해결하는 가치로 전환되는 순간에 진심인 분을 찾습니다. 변화하는 기술 환경에 민첩하게 대응하면서도, 언제나 견고한 데이터 기반 사고로 중심을 잡고 실행할 수 있는 분이라면 더욱 환영합니다.데이터로 더 나은 시스템의 미래를 ",
       "source": "inthiswork",
       "source_url": "https://inthiswork.com/archives/378978",
-      "crawled_at": "2026-08-05T02:42:46.101901",
+      "crawled_at": "2026-08-06T02:46:38.367941",
       "is_new": false,
       "first_seen_at": "2026-07-31T03:17:07.723413"
     },
@@ -11483,7 +11506,7 @@
       "description": "고용형태계약기간포지션명연차근무지계약직1년데이터 엔지니어(Customer Data Platform)1년 이상본사데이터팀데이터팀은 데이터 분석 – 엔지니어 – 컨설팅 및 비즈니스 인사이트 등을 담당하는 전문가들로 구성되어 있습니다.글로벌 자동차 브랜드의 플랫폼 및 마케팅 데이터 전 과정을 책임지며, 흩어진 고객 데이터를 연결·표준화해일관된 고객 경험을 만들고, 데이터 기반 인사이트로 비즈니스 성장에 기여합니다.■ 업무내용글로벌 자동차 브랜드의 원웹/앱의 고객 행동 데이터 수집 환경 설계·운영 (GA4 중심, GTM 등)GA4·MMP·CRM·VoC·ICDB·HMG 고객DB 등 다중 소스 데이터를 GCP BigQuery로 통합하고 데이터 표준 수립분석·BI·마케팅이 즉시 활용 가능한 데이터 마트 설계·구축·운영Agent Builder 기반 GenAI 데이터 활용 환경 구성 및 데이터 정제데이터 품질·정합성 관리, 개발 가이드 문서화 (Confluence·Jira 기반 협업)■ 지원자격전문학",
       "source": "inthiswork",
       "source_url": "https://inthiswork.com/archives/378898",
-      "crawled_at": "2026-08-05T02:42:46.101945",
+      "crawled_at": "2026-08-06T02:46:38.367961",
       "is_new": false,
       "first_seen_at": "2026-07-31T03:17:07.723413"
     }
