@@ -1,61 +1,15 @@
 {
-  "updated_at": "2026-08-22T01:21:43.959135",
+  "updated_at": "2026-08-23T01:29:29.873065",
   "stats": {
-    "total": 538,
+    "total": 537,
     "new": 48,
-    "expiring_7days": 10,
+    "expiring_7days": 12,
     "by_source": {
-      "saramin": 299,
-      "inthiswork": 239
+      "saramin": 297,
+      "inthiswork": 240
     }
   },
   "jobs": [
-    {
-      "id": "7b481e104199",
-      "title": "(주)일루넥스 인공지능, 빅데이터 분석 분야 채용",
-      "company_name": "일루넥스",
-      "company_logo": null,
-      "experience_level": "경력무관",
-      "experience_text": "경력무관",
-      "deadline": "2026-08-23T00:00:00",
-      "deadline_text": "~ 08/23(일)",
-      "internship_period": null,
-      "location": "경기고양시 덕양구",
-      "salary": null,
-      "employment_type": null,
-      "requirements": [],
-      "preferred": [],
-      "tech_stack": [],
-      "description": null,
-      "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54270373&location=ts&searchword=Data+Analyst&searchType=search&paid_fl=n&search_uuid=e50a05aa-14c6-466e-aed7-7b6f8a8c112a",
-      "crawled_at": "2026-07-08T02:54:21.456018",
-      "is_new": false,
-      "first_seen_at": "2026-06-25T03:52:45.639681"
-    },
-    {
-      "id": "fdb0334d44cf",
-      "title": "[메이저월드(주)] 매입데이터 분석및 업무자동화 담당자",
-      "company_name": "메이저월드(주)",
-      "company_logo": null,
-      "experience_level": "경력무관",
-      "experience_text": "경력무관",
-      "deadline": "2026-08-23T00:00:00",
-      "deadline_text": "~ 08/23(일)",
-      "internship_period": null,
-      "location": "경기화성시",
-      "salary": null,
-      "employment_type": null,
-      "requirements": [],
-      "preferred": [],
-      "tech_stack": [],
-      "description": null,
-      "source": "saramin",
-      "source_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54554825&location=ts&searchword=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&searchType=search&paid_fl=n&search_uuid=017476cc-126a-48fb-8cb5-5c6af2b0dccd",
-      "crawled_at": "2026-08-21T01:24:36.973137",
-      "is_new": false,
-      "first_seen_at": "2026-07-25T02:50:34.649392"
-    },
     {
       "id": "b53b5c68b103",
       "title": "엔케이(주) R&D팀(데이터분석) 직원 채용",
@@ -12201,6 +12155,29 @@
       "first_seen_at": "2026-07-10T03:35:15.019533"
     },
     {
+      "id": "9a0c53e4c63f",
+      "title": "Data Engineer",
+      "company_name": "미리디",
+      "company_logo": null,
+      "experience_level": "경력무관",
+      "experience_text": "",
+      "deadline": null,
+      "deadline_text": "",
+      "internship_period": null,
+      "location": "",
+      "salary": null,
+      "employment_type": null,
+      "requirements": [],
+      "preferred": [],
+      "tech_stack": [],
+      "description": "|​팀 ​소개저희 ​Data Engineering ​파트는 Kafka/Debezium CDC 기반 ​수집·적재 ​파이프라인과 Databricks ​Delta Lake 레이크하우스를 ​운영하며, 그 ​위에서 ​전사가 신뢰하고 ​즉시 ​활용할 ​수 있는 분석 ​데이터 ​기반을 만들어 갑니다. ​현재는 ​구축된 ​수집·적재 기반 위에서 ​데이터의 신뢰성과 ​활용성을 ​끌어올리는 단계로, ​Silver·Gold 마트의 ​모델링 ​표준화, Databricks Asset ​Bundle 기반 ​변환·CI/CD 체계, 데이터 품질 상시 모니터링을 진행하고 있습니다.나아가 파이프라인 운영과 데이터 품질 검증을 자동화하는 Agent를 직접 개발해 플랫폼의 안정성과 운영 효율을 높이고 있으며, 마트화된 데이터를 Databricks 외부·Agent에서 가볍게 접근할 수 있는 DW 환경(예: ClickHouse, StarRocks)을 구축해 전사 AX(AI Transformation)를 위한 데이터 활용 ",
+      "source": "inthiswork",
+      "source_url": "https://inthiswork.com/archives/390358",
+      "crawled_at": "2026-08-23T01:29:12.077273",
+      "is_new": true,
+      "first_seen_at": "2026-08-23T01:29:29.872552"
+    },
+    {
       "id": "0e342fcfba5e",
       "title": "[인턴][개발] 데이터 분석 및 기획담당(인턴) 채용",
       "company_name": "해커스교육그룹",
@@ -12216,10 +12193,10 @@
       "requirements": [],
       "preferred": [],
       "tech_stack": [],
-      "description": "지원하러 가기지원하러 가기최신 댓글 모음 보러가기취업토크 추천 아티클❤️오늘 핫한 공고0 Commentson 해커스교육그룹｜[인턴][개발] 데이터 분석 및 기획담당(인턴) 채용기업 사정으로 조기 마감되거나 내용이 변경될 수 있습니다채용공고 공유받는 카톡 채팅방기업 사정으로 조기 마감되거나 내용이 변경될 수 있습니다😉 함께 보면 좋은 커리어 정보현대로템｜항공우주 분야 신입 채용에코마케팅｜2026 하반기 재무/FP&A/경영기획 직군 대규모 채용iM뱅크｜2026년 신입행원 채용금융감독원｜2027년도 종합직원(5급) 채용Kakaotalk (PC/MO)취업준비 아티클공고 댓글 보러가기Kakaotalk취업준비 아티클공고 댓글 보러가기Kakaotalk취업준비 아티클공고 댓글 보러가기",
+      "description": "지원하러 가기지원하러 가기최신 댓글 모음 보러가기취업토크 추천 아티클❤️오늘 핫한 공고0 Commentson 해커스교육그룹｜[인턴][개발] 데이터 분석 및 기획담당(인턴) 채용기업 사정으로 조기 마감되거나 내용이 변경될 수 있습니다채용공고 공유받는 카톡 채팅방기업 사정으로 조기 마감되거나 내용이 변경될 수 있습니다😉 함께 보면 좋은 커리어 정보현대차증권｜2026년 3분기 신입 채용[Trading]2026년 국립생태원 하반기 체험형 청년인턴 채용하림｜2026년 영업,마케팅,디자인,생산관리,냉동관리 채용주식회사 노타｜[Nota AI] 2026 R&D InternshipKakaotalk (PC/MO)취업준비 아티클공고 댓글 보러가기Kakaotalk취업준비 아티클공고 댓글 보러가기Kakaotalk취업준비 아티클공고 댓글 보러가기",
       "source": "inthiswork",
       "source_url": "https://inthiswork.com/archives/389225",
-      "crawled_at": "2026-08-22T01:21:26.692021",
+      "crawled_at": "2026-08-23T01:29:12.077391",
       "is_new": true,
       "first_seen_at": "2026-08-22T01:21:43.958567"
     },
@@ -12242,7 +12219,7 @@
       "description": "팀 소개Physical Intelligence Lab은 인간의 눈을 뛰어넘는 시각 지능 기술을 연구·개발하며, 현실과 가상 공간에서 새로운 경험을 만들어 내는 것을 목표로 합니다.단순히 ‘사물을 본다’를 넘어, 세계를 이해하고 사람을 연결하는 AI의 눈을 만드는 것이 우리의 비전입니다.Physical Intelligence Lab의 연구 범위는 컴퓨터 비전 전반에 걸쳐 있습니다.이미지·영상 인식, 객체 탐지, 멀티모달 학습, 3D 이해를 비롯해 비전검사, Document AI, Robotics 등 다양한 응용 분야로 기술을 확장하고 있습니다.이를 통해 LG 그룹의 다양한 사업 영역에 적용 가능한 핵심 비전 기술과 서비스 기반을 마련하고, 나아가 미래 산업을 선도할 혁신적인 Application 개발에 기여하고 있습니다.Physical Intelligence Lab의 연구원들은 “눈으로 세상을 새롭게 해석한다”는 철학 아래, 대규모 데이터와 최첨단 AI 모델을 활용해 현실의 복잡한 문",
       "source": "inthiswork",
       "source_url": "https://inthiswork.com/archives/389121",
-      "crawled_at": "2026-08-22T01:21:26.692146",
+      "crawled_at": "2026-08-23T01:29:12.077429",
       "is_new": true,
       "first_seen_at": "2026-08-22T01:21:43.958567"
     },
@@ -12262,11 +12239,11 @@
       "requirements": [],
       "preferred": [],
       "tech_stack": [],
-      "description": "접수기한2026.08.30 오후 11:59지원하러 가기접수기한2026.08.30 오후 11:59지원하러 가기최신 댓글 모음 보러가기취업토크 추천 아티클❤️오늘 핫한 공고0 Commentson KMAC 한국능률협회컨설팅｜공공부문 리서치·데이터분석 Project Assistant 모집 (신입)기업 사정으로 조기 마감되거나 내용이 변경될 수 있습니다채용공고 공유받는 카톡 채팅방기업 사정으로 조기 마감되거나 내용이 변경될 수 있습니다😉 함께 보면 좋은 커리어 정보현대로템｜항공우주 분야 신입 채용에코마케팅｜2026 하반기 재무/FP&A/경영기획 직군 대규모 채용iM뱅크｜2026년 신입행원 채용금융감독원｜2027년도 종합직원(5급) 채용Kakaotalk (PC/MO)취업준비 아티클공고 댓글 보러가기Kakaotalk취업준비 아티클공고 댓글 보러가기Kakaotalk취업준비 아티클공고 댓글 보러가기",
+      "description": "접수기한2026.08.30 오후 11:59지원하러 가기접수기한2026.08.30 오후 11:59지원하러 가기최신 댓글 모음 보러가기취업토크 추천 아티클❤️오늘 핫한 공고0 Commentson KMAC 한국능률협회컨설팅｜공공부문 리서치·데이터분석 Project Assistant 모집 (신입)기업 사정으로 조기 마감되거나 내용이 변경될 수 있습니다채용공고 공유받는 카톡 채팅방기업 사정으로 조기 마감되거나 내용이 변경될 수 있습니다😉 함께 보면 좋은 커리어 정보현대차증권｜2026년 3분기 신입 채용[Trading]2026년 국립생태원 하반기 체험형 청년인턴 채용하림｜2026년 영업,마케팅,디자인,생산관리,냉동관리 채용주식회사 노타｜[Nota AI] 2026 R&D InternshipKakaotalk (PC/MO)취업준비 아티클공고 댓글 보러가기Kakaotalk취업준비 아티클공고 댓글 보러가기Kakaotalk취업준비 아티클공고 댓글 보러가기",
       "source": "inthiswork",
       "source_url": "https://inthiswork.com/archives/388628",
-      "crawled_at": "2026-08-22T01:21:26.692326",
-      "is_new": true,
+      "crawled_at": "2026-08-23T01:29:12.077654",
+      "is_new": false,
       "first_seen_at": "2026-08-20T01:22:50.580741"
     },
     {
@@ -12288,7 +12265,7 @@
       "description": "[합류하게 될 팀은 이런 업무를 하고 있어요]· 우리는 데이터를 통해 게임의 새로운 재미와 인사이트를 발굴하는 데이터 분석가들의 팀입니다.· 데이터로 게임의 방향성을 제시해요: 유저분들이 어떻게 게임을 플레이하고 계신지, 향후 어떻게 변화할지, 특정 유저층에 부족한 요소는 무엇인지 다각도로 탐색하여 게임이 더 좋은 방향으로 나아갈 수 있도록 돕고 있습니다.· 분석 결과를 게임에 직접 녹여내요: 데이터 속에서 발견한 핵심 인사이트와 명확한 문제 정의를 게임을 만드시는 기획자와 개발자분들에게 전달하며, 데이터를 기반으로 더 즐겁고 매력적인 게임을 만들기 위해 노력합니다.· AI 기술을 활용해 분석 방식을 진화시켜요: 단순한 리포팅을 넘어 AI 기술을 적극 도입하여 분석 시스템을 고도화하고, 더욱 스마트하고 효율적인 데이터 분석 환경을 만들어가고 있습니다.[합류하면 하게 될 업무를 소개해 드려요]· 데이터 분석 및 리포팅: 게임 지표 및 유저 데이터를 가공,분석하여 인사이트 보고서를 작성",
       "source": "inthiswork",
       "source_url": "https://inthiswork.com/archives/388204",
-      "crawled_at": "2026-08-22T01:21:26.692411",
+      "crawled_at": "2026-08-23T01:29:12.077744",
       "is_new": false,
       "first_seen_at": "2026-08-19T01:22:02.719961"
     },
@@ -12308,10 +12285,10 @@
       "requirements": [],
       "preferred": [],
       "tech_stack": [],
-      "description": "상시 채용😃 사업부 소개플래티어(Plateer)의 AI CX SaaS사업본부는 생성형 AI 기술을 접목하여, 검색과 챗봇 기능을 제공하는genser(젠서)와gelatto(젤라또)서비스를 출시하며 빠르게 사업 영역을 확장하고 있습니다. 우리는 기술을 통해 고객 경험의 새로운 기준을 만들어가고 있습니다.그루비(groobee) 홈페이지:https://groobee.net/젠서(genser) 홈페이지:https://www.genser.ai/젤라또(gelatto) 홈페이지:https://www.gelatto.ai/🙋‍♂️ 팀 소개데이터플랫폼팀은사용자 행동과 상품/입점사 성과를 분석하고,서비스 지표·로그·데이터 마트를 직접 설계하며 검색/추천/챗봇 등AI 기반 기능의 도입 효과를 검증합니다.📋 담당업무그루비, 젠서, 젤라또 데이터 분석고객사 캠페인 성과 분석 및 인사이트 제공데이터 분석 및 활용을 위한 DM 설계, 개발Metabase를 통한 대시보드 제작고객사 데이터 분석 지원🎯자격요건학력:관",
+      "description": null,
       "source": "inthiswork",
       "source_url": "https://inthiswork.com/archives/387598",
-      "crawled_at": "2026-08-22T01:21:26.692501",
+      "crawled_at": "2026-08-23T01:29:12.077840",
       "is_new": false,
       "first_seen_at": "2026-08-18T01:20:31.714561"
     },
@@ -12334,7 +12311,7 @@
       "description": null,
       "source": "inthiswork",
       "source_url": "https://inthiswork.com/archives/387417",
-      "crawled_at": "2026-08-22T01:21:26.692534",
+      "crawled_at": "2026-08-23T01:29:12.077873",
       "is_new": false,
       "first_seen_at": "2026-08-17T01:23:38.491300"
     },
@@ -12357,7 +12334,7 @@
       "description": null,
       "source": "inthiswork",
       "source_url": "https://inthiswork.com/archives/386149",
-      "crawled_at": "2026-08-22T01:21:26.692568",
+      "crawled_at": "2026-08-23T01:29:12.077921",
       "is_new": false,
       "first_seen_at": "2026-08-17T01:23:38.491300"
     },
@@ -12380,7 +12357,7 @@
       "description": null,
       "source": "inthiswork",
       "source_url": "https://inthiswork.com/archives/384210",
-      "crawled_at": "2026-08-22T01:21:26.692858",
+      "crawled_at": "2026-08-23T01:29:12.078174",
       "is_new": false,
       "first_seen_at": "2026-08-11T01:54:35.763689"
     }
